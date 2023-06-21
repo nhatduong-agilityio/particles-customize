@@ -12,6 +12,7 @@ function App() {
           color: '#ffffff',
           fontSize: '34px',
           textAlign: 'center',
+          userSelect: 'none',
         }}
       >
         Dark Brain
