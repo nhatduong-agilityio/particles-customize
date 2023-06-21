@@ -8,7 +8,7 @@ function App() {
         style={{
           position: 'absolute',
           top: '50%',
-          width: '100%',
+          left: '50%',
           color: '#ffffff',
           fontSize: '34px',
           textAlign: 'center',
