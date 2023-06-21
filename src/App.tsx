@@ -1,7 +1,22 @@
 import { ParticlesCustomize } from '~/components/ParticlesCustomize';
 
 function App() {
-  return <ParticlesCustomize />;
+  return (
+    <>
+      <ParticlesCustomize />
+      <div
+        style={{
+          position: 'absolute',
+          top: '50%',
+          width: '100%',
+          color: '#ffffff',
+          fontSize: '34px',
+        }}
+      >
+        Dark Brain
+      </div>
+    </>
+  );
 }
 
 export default App;
