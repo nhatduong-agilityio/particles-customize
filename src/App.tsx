@@ -11,6 +11,7 @@ function App() {
           width: '100%',
           color: '#ffffff',
           fontSize: '34px',
+          textAlign: 'center',
         }}
       >
         Dark Brain
